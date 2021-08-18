@@ -1,0 +1,13 @@
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.exe
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.deps.json
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.runtimeconfig.json
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.runtimeconfig.dev.json
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.dll
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.pdb
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.csprojAssemblyReference.cache
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.AssemblyInfoInputs.cache
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.AssemblyInfo.cs
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.dll
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.pdb
+C:\Users\Tufan Özmen\source\repos\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.genruntimeconfig.cache
